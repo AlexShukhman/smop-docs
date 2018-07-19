@@ -1,0 +1,5 @@
+site_name: Smop's Docs
+extra_css: 
+  - css/custom.css
+theme:
+  name: 'material'
