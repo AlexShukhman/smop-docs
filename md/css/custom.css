@@ -31,13 +31,13 @@ body {
 	padding-bottom: 40px;
 	background-color: var(--main-bg);
 	font: normal 'Lato', sans-serif !important;
+	font-family: 'Lato' !important;
 }
 
 a {
 	color: var(--main-a);
 	text-decoration: none;
 	cursor: pointer;
-	font: normal 'Lato', sans-serif !important;
 }
 
 a:focus,
