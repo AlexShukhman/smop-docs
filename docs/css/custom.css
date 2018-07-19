@@ -19,9 +19,13 @@ body, .md-header {
 	font-family: 'Lato' !important;
 }
 
-h1, h2, h3, h4, h5, p, b, span, label, input, button, ::placeholder {
+h1, h2, h3, h4, h5, p, b, label, input, button, ::placeholder {
 	color: var(--main-txt) !important;
 	font-family: 'Lato' !important;
+}
+
+span {
+	color: var(--main-txt) !important;
 }
 
 .md-footer {
