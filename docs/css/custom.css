@@ -11,6 +11,8 @@
 	--coder-color-light: #7090c0;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 body, .md-header {
 	background-color: var(--main-bg);
 	box-shadow: none !important;
