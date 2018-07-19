@@ -16,10 +16,12 @@
 body, .md-header {
 	background-color: var(--main-bg);
 	box-shadow: none !important;
+	font-family: 'Lato' !important;
 }
 
 h1, h2, h3, h4, h5, p, b, span, label, input, button, ::placeholder {
-    color: var(--main-txt) !important;
+	color: var(--main-txt) !important;
+	font-family: 'Lato' !important;
 }
 
 .md-footer {
@@ -38,6 +40,7 @@ a {
 	color: var(--main-a);
 	text-decoration: none;
 	cursor: pointer;
+	font-family: 'Lato' !important;
 }
 
 a:focus,
@@ -53,4 +56,5 @@ input {
 	width: 95%;
 	resize: none;
 	border-style: none !important;
+	font-family: 'Lato' !important;
 }
