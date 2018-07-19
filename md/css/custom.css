@@ -12,7 +12,8 @@
 }
 
 body, .md-header {
-    background-color: var(--main-bg);
+	background-color: var(--main-bg);
+	box-shadow: none;
 }
 
 h1, h2, h3, h4, h5, p, b, span, label, input, button, ::placeholder {
