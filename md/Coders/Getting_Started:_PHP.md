@@ -22,7 +22,7 @@ This is a [PHP](https://www.w3schools.com/pHP/default.asp)-based environment. Th
 
 *We recommend that Coders avoid older versions of Internet Explorer or mini/light browsers because they lack full functionality.*
 
-##### Extra Considerations for DOS (Windows) Users
+#### Extra Considerations for DOS (Windows) Users
 
 * [PHP](http://www.w3programmers.com/run-php-in-php-built-in-web-server/) - ***Note:*** *This will help install PHP on Windows.*
 * [XAMPP](https://www.apachefriends.org/index.html) or similar - A great server-building GUI for simpler PHP serving.
