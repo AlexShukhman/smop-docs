@@ -13,3 +13,9 @@ pip install mkdocs mkdocs-material
 ```sh
 mkdocs build --dirty
 ```
+
+## Serve Locally
+
+```sh
+mkdocs serve
+```
