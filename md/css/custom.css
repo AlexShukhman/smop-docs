@@ -33,7 +33,6 @@ body {
 a {
 	color: var(--main-a);
 	text-decoration: none;
-	font-weight: bolder;
 	cursor: pointer;
 }
 
