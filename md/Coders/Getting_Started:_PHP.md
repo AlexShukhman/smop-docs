@@ -28,7 +28,7 @@ This is a [PHP](https://www.w3schools.com/pHP/default.asp)-based environment. Th
 * [XAMPP](https://www.apachefriends.org/index.html) or similar - A great server-building GUI for simpler PHP serving.
 * *Consider Partitioning your machine with a friendly [Linux Distro](https://www.lifewire.com/ultimate-windows-8-1-ubuntu-dual-boot-guide-2200654)*.
 
-### SERVING YOUR WEBSITE LOCALLY
+### Serving Your Website Locally
 
 **From the Command Line:**
 
