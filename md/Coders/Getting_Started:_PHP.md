@@ -2,7 +2,7 @@
 
 ## IF YOU'VE NEVER DONE THIS
 
-**Welcome!** We're so happy you've come to check us out. Enclosed is what we call *pet code*. It should include all the files you need to complete the task.
+**Welcome!** We're so happy you've come to check us out. Enclosed in the zip you may have just downloaded is what we call *pet code*. It should include all the files you need to complete the task.
 
 ### So you've chosen to work locally...
 
